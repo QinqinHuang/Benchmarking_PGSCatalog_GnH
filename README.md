@@ -3,7 +3,7 @@ Calculating scores from the PGS Catalog in British Pakistani and Bangladeshi ind
 
 
 ## 1_scoring
-We fistly calculated scores using plink2. The scoring files have been harmonised with G&H imputed variants. We received 2 multi-weight scoring files for each set of traits. Effect alleles are different for variants that are in both scoring files (to avoid flipping the effect size from the original submitted data, I think). Harmonised scoring files were prepared by Samuel Lambert. 
+We firstly calculated scores using plink2. The scoring files have been harmonised with G&H imputed variants. We received 2 multi-weight scoring files for each set of traits. Effect alleles are different for variants that are in both scoring files (to avoid flipping the effect size from the original submitted data, I think). Harmonised scoring files were prepared by Samuel Lambert. 
 
 We next summed the two scores in R.
 
